@@ -1,12 +1,12 @@
-# refactored-telegram1
+refactored-telegram
 training repo
-## Github Getting Started
+
+Github Getting Started
 In this course, you will learn to use Github successfully.
 
-### The basics
-- Understand the use of Github
-- Create repositories
-- Work with Git and Github locally
-- Create and work with issues
-- Create a wiki and a Github page
-
+The basics
+Understand the use of Github
+Create repositories
+Work with Git and Github locally
+Create and work with issues
+Create a wiki and a Github page
