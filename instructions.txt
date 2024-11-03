@@ -5,4 +5,4 @@ Lorem ipsum dolor sit met, consectetur adipising elit.  Etiam vestibulum arcu se
 Installation on IIS
 -------------------
 
-Content goes here, add more instructions
+Content goes here
